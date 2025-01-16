@@ -1,0 +1,94 @@
+{
+  "watches": [
+    {
+      "id": 1,
+      "name": "boAt Lunar discovery",
+      "brand": "boAt",
+      "price": 1499,
+      "offer": 30,
+      "sale":false,
+      "image_url": "https://m.media-amazon.com/images/I/41m-lBJQ2hL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "TIMEWEAR Analog Day",
+      "brand": "TIMEWEAR",
+      "price": 1500,
+      "offer": 39,
+      "sale":false,
+      "image_url": "https://m.media-amazon.com/images/I/812ffPvb6IL._SY741_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Noise twist go smart watch",
+      "brand": "Noise",
+      "price": 1400,
+      "offer": 44,
+      "sale":false,
+      "image_url": "https://m.media-amazon.com/images/I/61-vRq2ulOL._SX679_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Asus vivo book 15",
+      "brand": "Asus",
+      "price": 55000,
+      "offer": 29,
+      "sale":false,
+      "image_url": "https://m.media-amazon.com/images/I/41E3bAYjr3L._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lenovo IDEAPAD 13thgen",
+      "brand": "Lenovo",
+      "price":100000,
+      "offer": 39,
+      "sale": false,
+      "image_url": "https://m.media-amazon.com/images/I/71-i11riVIL._SX679_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Apple Watch Series 7",
+      "brand": "Apple",
+      "price": 19999,
+      "offer": 60,
+      "sale": true,
+      "image_url": "https://m.media-amazon.com/images/I/61apfl6EiqL._SX679_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Fitbit Charge 5",
+      "brand": "Fitbit",
+      "price": 9999,
+      "offer": 80,
+      "sale": true,
+      "image_url": "https://m.media-amazon.com/images/I/41s2cosnkrL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Amazfit GTR 3",
+      "brand": "Amazfit",
+      "price": 3999,
+      "offer": 79,
+      "sale": true,
+      "image_url": "https://m.media-amazon.com/images/I/41+Nnpc3q-L._SY300_SX300_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Dell Inspiron 15",
+      "brand": "Dell",
+      "price": 55000,
+      "offer": 75,
+      "sale": true,
+      "image_url": "https://m.media-amazon.com/images/I/41SU2jyXrIL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "HP Pavilion 13thgen x360",
+      "brand": "HP",
+      "price": 270000,
+      "offer": 70,
+      "sale": true,
+      "image_url": "https://m.media-amazon.com/images/I/41RxCO8x3-L._SX300_SY300_QL70_FMwebp_.jpg"
+    }
+  ]
+}
